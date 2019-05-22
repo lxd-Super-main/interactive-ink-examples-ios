@@ -174,7 +174,7 @@
 				TargetAttributes = {
 					554A0B6C1F4745DF00C30FE6 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 7WY4422N73;
+						DevelopmentTeam = 4X7TD546UZ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -184,6 +184,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -325,6 +326,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -368,6 +370,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -378,14 +381,14 @@
 			baseConfigurationReference = BF462DE7D671DA0B1695C68E /* Pods-GetStartedSwift.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7WY4422N73;
+				DEVELOPMENT_TEAM = 4X7TD546UZ;
 				INFOPLIST_FILE = "$(SRCROOT)/GetStartedSwift/Supporting Files/GetStartedSwift-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.myscript.iink.GetStartedSwift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "GetStartedSwift/Supporting Files/GetStartedSwift-Bridging-Header.h";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				WARNING_LDFLAGS = "-Weverything";
 			};
 			name = Debug;
@@ -395,14 +398,14 @@
 			baseConfigurationReference = 167C03D40C50913424C09F30 /* Pods-GetStartedSwift.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7WY4422N73;
+				DEVELOPMENT_TEAM = 4X7TD546UZ;
 				INFOPLIST_FILE = "$(SRCROOT)/GetStartedSwift/Supporting Files/GetStartedSwift-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.myscript.iink.GetStartedSwift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "GetStartedSwift/Supporting Files/GetStartedSwift-Bridging-Header.h";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 				WARNING_LDFLAGS = "-Weverything";
 			};
 			name = Release;

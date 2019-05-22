@@ -16,8 +16,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   MyScriptInteractiveInk-Runtime: a817229221180ece1b8d1253fdef98263b34a0ce
-  MyScriptInteractiveInk-UIReferenceImplementation: 33e19cdeded0a3d18ad941e4d3824aade3e75318
+  MyScriptInteractiveInk-UIReferenceImplementation: 523ab3f16442759da63af05baaaadf1fa24f827a
 
 PODFILE CHECKSUM: b601e332774ad4216753c377e501089be0e327a7
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.1

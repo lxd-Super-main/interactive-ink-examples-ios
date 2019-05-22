@@ -34,7 +34,7 @@ Visit https://developer.myscript.com/ to create your MyScript Developer account 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.1'
-  s.swift_version         = '3.2'
+  s.swift_version         = '4'   # Larry update 3.2 to 5
 
   s.header_dir = 'IInkUIReferenceImplementation'
 
